@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang=“es”>
+
+<html>
+	<head>
+		<title>Manual html</title>
+	</head>
+
+<body>
+	<h2>titulos y subtitulos</h2>
+	<h2> se usa las etiquetas h1.../h1 h2.../h2 ......h6... /h6 dependiendo del tamaño </h2>
+	<h2>h2</h2>
+	<h3>h3</h3>
+	<h4>h4</h4>
+	<h5>h5</h5>
+	<h6>h6</h6> <br>
+	
+	<p><b>trazo de linea</b><br>
+	La etiqueta hr nos permite trazar una línea horizontal
+	</p><br>
+	
+	<p><b>salto de linea</b><br> 
+	la etiqueta br nos permite trazar una liena </p><br>
+	<hr>
+	
+	<h2>Formato de texto</h2> <br>	
+	<p>
+	la etiqueta b../b <b>nos permite poner el texto en negrita</b><br>
+	la etiqueta big.../big <big>nos permite poner la letra grande</big><br>
+	la etiqueta i.../i <i>nos permite poner la letra en estilo italica</i><br>
+	la etiqueta u.../u <u>nos permite poner el texto subrayado</u><br>
+	la etiqueta p.../p define un parrafo<br>
+	la etiqueta em../em <em>nos permite poner enfasis</em><br>
+	la etiqueta small <small> reprecenta la letra pequeña </small><br>
+	la etiqueta s.../s representa un texto irrelebante 
+	</p><br>
+	
+	<h2>buscador</h2>
+	la etiqueta nav.../nav nos permite crear un navegador en la paguina<br>
+	
+	<h2> Articulos y secciones</h2>
+	<p>
+	la etiqueta article.../article nor permite crear articulos <br>
+	y la etiqueta section.../section nor permite crear secciones
+	</p><br>
+	
+	<h2>Preformateado</h2>
+	<p>
+	la etiqueta pre.../pre permite preformatear el texto 
+	</p><br>
+	
+	<h2> Listas </h2>
+	<h3> listas de elementos</h3>
+	<p> la lista de elementos las creamos con la etiqueta li </p><br>
+	<h3> listas desordenadas</h3>
+	<p> la lista desordenadas las creamos con la etiqueta ul </p><br>
+	<h3> listas ordenadas</h3>
+	<p> la lista ordenadas las creamos con la etiqueta ol </p><br>
+	
+	<h3> definicion de listas </h3>
+	<p>
+	definimos las listas con la etiqueta dl
+	Definicionion Term: dt
+	Definicionion Datos: dd
+	</p><br>
+	
+	<h3>Hiperenlaces</h3>
+	<p>
+	la etiqueta <b>href</b> nos permite poner un hipernelace absoluto o relativo 
+	</p><br>
+	
+	<h3>Contenido encajado </h3>
+	<p>
+	la etiqueta img.../img nos permite colocar una imagen en nuestra paguina ejm... <br>
+	img src=“foto.jpg” width=200 height=150 alt=“Mi foto<br>
+	height: para la altura
+	width: para el ancho
+	alt: para el texto alternativo</p><br>
+	<p>
+	hay varios tipos de imagnes<br>
+	<b>bimap estaticos:</b>(PNG, GIF, JPG)<br>
+	<b>Documentos vectoriales:</b>(SVG)<br>
+	<b>Animados:</b>(APNG, GIF)<br>
+	<b>Otros:</b>(PDF, MNG)</p><br>
+	
+	<h3>Mapas de imagenes</h3>
+	<p>
+	podemos ubicar enlaces en las zonas especificas de una imagen<br> 
+	map name="mapa"<br>
+	con las etiquetas shape:default, rect, circle, poly. elegimos la forma en la zona del enlace <br>
+	coords: podemos colocar coordenadas separadas por comas<br>
+	rect: x-izq, y-sup, x-dcha, y-inf<br>
+	circle: x-centro, y-centro, radio<br>
+	poly: x1, y1, x2, y2,…, xN, yN<br>
+	</p><br>
+	
+	<h3>Tablas</h3>
+	<p>
+	<b>Encabezado de tabla</b>: thead<br>
+	<b>cuerpo de tabla</b>: tbody<br>
+	<b>sumario de tabla</b>: tfoot<br>
+	<b>leyenda</b>: caption</p><br>
+	
+	<h3>atributos de la tabla</h3>
+	<p>
+	<b>borde</b> border (en table)<br>
+	<b>expansion en columna</b>rowspan (en td y th)<br>
+	<b>expancion de fila</b>colspan (en td y th)</p><br>
+	
+	
+	
+		
+</body>
+</html>
